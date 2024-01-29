@@ -29,9 +29,10 @@ First authored papers
 Collaborated papers
 ------
 **label represents papers where I am the corresponding author.*
-
-# 1. **\[2021 JSAC (A)\]** WheelLoc: Practical and Accurate Localization for Wheeled Mobile Target via Integrated Sensing and Communication   
-#     Linghe Kong, **Zengyu Ye**, Yunxin Liu, Le Zheng, Meikang Qiu, Guihai Chen  
-#     IEEE Journal on Selected Areas in Communications Special Issue on Integrated Sensing and Communication, 1 - 1   
+<div style='display: none'>
+1. **\[2021 JSAC (A)\]** WheelLoc: Practical and Accurate Localization for Wheeled Mobile Target via Integrated Sensing and Communication   
+    Linghe Kong, **Zengyu Ye**, Yunxin Liu, Le Zheng, Meikang Qiu, Guihai Chen  
+    IEEE Journal on Selected Areas in Communications Special Issue on Integrated Sensing and Communication, 1 - 1   
+</div>
 
 
