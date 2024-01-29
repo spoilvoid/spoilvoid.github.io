@@ -13,7 +13,7 @@ Education
 ======
 * Bachelor Student in Department of Computer Science and Engineering, Shanghai Jiao Tong University, 2019-2023
 * Master Student in Artificial Intelligence Institute, Shanghai Jiao Tong University, 2023-2026
-* 
+
 <div style='display: none'>
 Work experience
 ======
@@ -39,9 +39,10 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+1. **\[2022 GLOBECOMM (C)\]** Wi-Uro: Real-time Monitoring and Alarming for Urine Bags Using Commodity Wi-Fi  
+    Haonan Chen, **Zengyu Ye**, Yutong Liu*, Yongguang Li*, Linghe Kong, Jiadi Yu, Guihai Chen  
+    IEEE Global Communications Conference 
+    [\[Paper\]](https://ieeexplore.ieee.org/document/10000706)
   
 <div style='display: none'>
 Talks
